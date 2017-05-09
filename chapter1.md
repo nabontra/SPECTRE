@@ -1,3 +1,6 @@
-# First Chapter
+# Introduction
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+S.P.E.C.T.R.E. is a syndicate dedicated to strategic advantages within the arts.
+
+
+

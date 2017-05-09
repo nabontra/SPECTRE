@@ -1,3 +1,10 @@
-# My Awesome Book
+##### FM 2-22.401\(MULTI-SERVICE TACTICS, TECHNIQUES, AND PROCEDURES FOR TECHNICAL INTELLIGENCE OPERATIONS\)
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+---
+
+# S.P.E.C.T.R.E.
+
+---
+
+October 2013
+
