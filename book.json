@@ -1,5 +1,5 @@
 {
-	"plugins": ["theme-latex", "-sharing", "-theme-default"],
+	"plugins": ["theme-latex", "-fontsettings", "-comment", "-highlight", "-sharing", "-theme-default"],
 	"styles": {
         "website": "styles/website.css"
     }
