@@ -1,0 +1,7 @@
+.book.font-size-0 .book-body .page-inner section {
+    font-size: inherit !important;
+}
+
+.book.font-family-0 {
+    font-family: inherit !important;
+}
