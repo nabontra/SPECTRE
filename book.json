@@ -1,0 +1,21 @@
+{
+	"plugins": ["theme-latex", "image-captions", "autocover"],
+	"pluginsConfig": {
+		"autocover": {
+			"title": "SPECTRE",
+			"author": "Nick Bontrager & Joshua Penrose",
+			"font": {
+				"size": null,
+				"family": "Impact",
+				"color": "#FFF"
+			},
+			"size": {
+				"w": 1800,
+				"h": 2360
+			},
+			"background": {
+				"color": "#09F"
+			}
+		}
+	}
+}
