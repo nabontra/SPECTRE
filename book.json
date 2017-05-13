@@ -1,5 +1,5 @@
 {
-	"plugins": ["theme-latex", "image-captions", "-theme-default"],
+	"plugins": ["theme-latex", "image-captions", "-sharing", "-theme-default"],
 	"styles": {
         "website": "styles/website.css"
     }
