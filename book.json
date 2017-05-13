@@ -1,5 +1,12 @@
 {
-	"plugins": ["theme-latex", "validate-links", "-fontsettings", "-comment", "-highlight", "-sharing", "-theme-default"],
+	"plugins": ["theme-latex", "validate-links", "-fontsettings", "-comment", "-highlight", "-sharing", "-theme-default", "terminal"],
+	"pluginsConfig": {
+		"terminal": {
+		"copyButtons": false,
+		"fade": false,
+		"style": "classic",
+		}
+	}
 	"styles": {
         "website": "styles/website.css"
     }

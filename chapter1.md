@@ -2,3 +2,16 @@ Introduction
 
 S.P.E.C.T.R.E. is a syndicate dedicated to strategic advantages within the arts.
 
+```
+**[terminal]
+**[warning	CHESS
+POKER
+FIGHTERCOMBAT
+GUERILLA ENGAGEMENT
+DESERT WARFARE
+AIR-TO-GROUND ACTIONS
+THEATERWIDE TACTICAL WARFARE
+THEATERWIDE BIOTOXIC AND CHEMICAL WARFARE]
+
+**[error GLOBAL THERMONUCLEAR WAR]
+```
