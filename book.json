@@ -1,4 +1,4 @@
 {
-	"plugins": ["theme-latex", "image-captions"]
+	"plugins": ["theme-latex", "image-captions","-sharing","-theme-default"]
 
 }
