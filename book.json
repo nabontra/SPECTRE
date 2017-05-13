@@ -1,4 +1,3 @@
 {
 	"plugins": ["theme-latex", "image-captions","-sharing","-theme-default"]
-
 }
