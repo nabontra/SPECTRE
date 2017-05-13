@@ -1,3 +1,6 @@
 {
 	"plugins": ["theme-latex", "image-captions", "-theme-default"]
+	"styles": {
+        "website": "styles/website.css"
+    }
 }
